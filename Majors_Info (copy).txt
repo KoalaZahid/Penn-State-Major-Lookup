@@ -1,0 +1,299 @@
+Accounting|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, MGMT 301, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MKTG 301, ACCTG 211, FIN 301
+
+Actuarial Science|University Park|120|MATH 140, MATH 141, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 301, SCM 200 or STAT 200, MKTG 301, FIN 301, ACCTG 211
+
+Advertising & Public Relations|University Park|120|ENGL 15 or ENGL 30H, ECON 102
+
+Aerospace Engineering|University Park|131|CHEM 110, MATH 140 or MATH 140E, PHYS 211, EDSGN 100, MATH 141 or MATH 141E
+
+African American Studies|University Park|120|None
+
+African Studies|University Park|123|None
+
+Agribusiness Management|University Park|120|MATH 110 or MATH 140
+
+Agricultural & Extension Education|University Park|125|ENGL 15 or ENGL 30H or ESL 15, BIOL 110, AEE 100, Lit Gen Ed, EDTHP 115, CHEM 130, EDPSY  14, STAT 200
+
+Agricultural Science|University Park|123|None
+
+American Studies|Brandywine|123|None
+
+Animal Science|University Park|124|None
+
+Anthropological Science|University Park|120|None
+
+Anthropology|University Park|120|None
+
+Architectural Engineering|University Park|160|CHEM 110, MATH 140 or MATH 140E, EDSGN 100, MATH 141 or MATH 141E, PHYS 211
+
+Art History|University Park|120|None
+
+Asian Studies|University Park|124|None
+
+Astronomy and Astrophysics|University Park|125|MATH 140, CHEM 110, PHYS 211, MATH 141, PHYS 212, ASTRO 291
+
+Biobehavioral Health|University Park|121|None
+
+Biochemistry and Molecular Biology|University Park|125|CHEM 110, CHEM 111, MATH 140 or MATH 140B, CHEM 112
+
+Biological Engineering|University Park|128|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Biology|University Park|124|BIOL 110, CHEM 110, MATH 140B or MATH 140, BIOL 230W, BIOL 220W, BIOL 240W
+
+Biomedical Engineering|University Park|130|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Biorenewable Systems|University Park|121|None
+
+Biotechnology|University Park|125|CHEM 110, CHEM 111, MATH 140 or MATH 140B, CHEM 112
+
+Business|Brandywine|120|None
+
+Chemical Engineering|University Park|133|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Chemistry|University Park|125|CHEM 110H or CHEM 110, CHEM 111, MATH 140B or MATH 140, CHEM 112H or CHEM 112, CHEM 114, MATH 141B or MATH 141, CHEM 210H or CHEM 210
+
+Chinese|University Park|124|None
+
+Civil Engineering|University Park|127|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Classics and Ancient Mediterranean Studies|University Park|123|None
+
+Communication Arts and Sciences B.A.|University Park, Brandywine|120|None
+
+Communication Arts and Sciences B.S.|University Park|120|None
+
+Communication Sciences and Disorders|University Park|120|None
+
+Communications|Brandywine|120|None
+
+Community, Environment and Development|University Park|120|None
+
+Comparative Literature|University Park|120|None
+
+Computer Engineering|University Park|128|MATH 140, PHYS 211, CHEM 110, CMPSC 121 or CMPSC 131, MATH 141
+
+Computer Science|University Park, Brandywine|127|CMPSC 121 or CMPSC 131, MATH 140, CMPSC 122 or CMPSC 132, MATH 141, PHYS 211
+
+Corporate Innovation and Entrepreneurship|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 131, MKTG 301, ACCTG 211, FIN 301
+
+Criminology B.A.|University Park|121|None
+
+Criminology B.S.|University Park|121|None
+
+Cybersecurity Analytics and Operations|University Park, Brandywine|123|CYBER 100S, IST 210, IST 220, IST 242, STAT 200
+
+Data Sciences|University Park|123|CMPSC 121 or CMPSC 131, MATH 140, DS 200 or STAT 200, CMPSC 122 or CMPSC 132, MATH 141
+
+Earth Science and Policy|University Park|120|None
+
+Economics B.A.|University Park|120|ECON 102, ECON 104
+
+Economics B.S.|University Park|120|ECON 102, ECON 104
+
+Education and Public Policy|University Park|120|None
+
+Electrical Engineering|University Park|127|CHEM 110, MATH 140 or MATH 140E, PHYS 211, MATH 141 or MATH 141E
+
+Elementary and Early Childhood Education|University Park|124|ENGL 15 or ENGL 30H, MATH 200, EDTHP 115, EDPSY 14, EDPSY 11 or HDFS 229, STAT 100 or STAT 200 or EDPSY 101, CI 295A, CAS 100A, Biological Science, Literature
+
+Elementary Education|University Park|122|None
+
+Energy Engineering|University Park|131|MATH 140 or MATH 140G, CHEM 110, CHEM 111, MATH 141, CHEM 112, PHYS 211, PHYS 212, MATH 231
+
+Energy Business and Finance|University Park|120|MATH 140 or MATH 140G, ECON 102, MATH 141 or MATH 141G
+
+Engineering B.S.|Brandywine|127|CHEM 110, EDSGN 100, MATH 140, MATH 141, PHYS 211
+
+Engineering Science|University Park|131|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+English|University Park, Brandywine|123|None
+
+Enterprise Technology Integration|University Park|124|IST 140, IST 110 or CYBER 100, IST 242, IST 220, IST 210, STAT 200
+
+Environmental Resource Management|University Park|121|None
+
+Environmental Systems Engineering|University Park|131|MATH 140 or MATH 140G, CHEM 110, MATH 141 or MATH 141G, PHYS 211, PHYS 212, MATH 251
+
+Film Production|University Park|120|COMM 150N, COMM 242
+
+Finance|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, EECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Food Science|University Park|121|None
+
+Forensic Science|University Park|123|CHEM 110, CHEM 111, MATH 140, CHEM 112, FRNSC 210
+
+Forest Ecosystem Management|University Park|120|None
+
+French and Francophone Studies B.A.|University Park|120|None
+
+French and Francophone Studies B.S.|University Park|120|None
+
+Geobiology|University Park|121|None
+
+Geography B.A.|University Park|120|None
+
+Geography B.S.|University Park|120|None
+
+Geosciences B.A.|University Park|120|None
+
+Geosciences B.S.|University Park|121|MATH 140 or MATH 140G
+
+German B.A.|University Park|120|None
+
+German B.S.|University Park|120|None
+
+Global and International Studies B.A.|University Park|120|None
+
+Global and International Studies B.S.|University Park|120|None
+
+Health Policy and Administration|University Park|120|None
+
+History|University Park|123|None
+
+Hospitality Management|University Park|120|None
+
+Human Development and Family Studies, A.S.|Brandywine|60|None
+
+Human Development and Family Studies, B.S.|University Park, Brandywine|120|None
+
+Human-Centered Design and Development|University Park|120|HCDD 113 or HCDD 113S, IST 140, STAT 200, IST 242, IST 210, IST 220
+
+Immunology and Infectious Disease|University Park|124|BIOL 110, CHEM 110, CHEM 111, MATH 140, BIOL 220W or BIOL 240W, CHEM 112, CHEM 113, MATH 141, BIOL 230W
+
+Industrial Engineering|University Park|129|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Information Sciences and Technology B.S.|University Park|125|IST 110, IST 140 or CMPSC 101 or CMPSC 121, IST 210
+
+Information Technology|Brandywine|120|IST 110 or CYBER 100, IST 140 or CMPSC 121 or CMPSC 131, IST 220, IST 210
+
+Integrative Arts|University Park|120|None
+
+International Politics|University Park|123|None
+
+Italian B.A.|University Park|122|None
+
+Italian B.S.|University Park|120|None
+
+Japanese|University Park|124|None
+
+Jewish Studies|University Park|120|None
+
+Journalism|University Park|120|None
+
+Kinesiology|University Park|120|KINES 101, MATH 26, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, KINES 100, STAT 200 or STAT 250 or SCM 200, KINES 202, KINES 295B, PSYCH 100, EDPSY 10, Gen Ed Course
+
+Korean|University Park|124|None
+
+Labor and Human Resources B.A.|University Park|123|None
+
+Labor and Human Resources B.S.|University Park|123|None
+
+Landscape Contracting|University Park|120|None
+
+Latin American Studies|University Park|121|None
+
+Linguistics|University Park|120|None
+
+Management|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Management Information Systems|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Marketing|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Materials Science & Engineering|University Park|131|MATH 140 or MATH 140G, CHEM 110, CHEM 11, MATH 141 or MATH 141G, MATSE 112 or CHEM 112, CHEM 113, PHYS 211, MATH 220
+
+Mathematics B.A.|University Park|120|MATH 140, MATH 141
+
+Mathematics B.S.|University Park|120|MATH 140, MATH 141
+
+Mechanical Engineering|University Park|131|EDSGN 100, MATH 140, CHEM 110, MATH 141, PHYS 211
+
+Media Studies|University Park|120|None
+
+Medieval Studies|University Park|123|None
+
+Meteorology and Atmospheric Science|University Park|121|MATH 140 or MATH 140G
+
+Microbiology|University Park|125|CHEM 110, CHEM 111, MATH 140 or MATH 140B, CHEM 112
+
+Middle East Studies|University Park|120|None
+
+Middle Level Education|University Park|125|ENGL 15 or ENGL 30H, MATH 200, EDTHP 115, CAS 100A, EDPSY 14, STAT 100 or STAT 200 or EDPSY 101, CI 295B, EDFS 239, Biological Science, Literature
+
+Mining Engineering|University Park|131|None
+
+Nuclear Engineering|University Park|129|CHEM 110, EDSGN 100, MATH 140 or MATH 140E, MATH 141 or MATH 141E, PHYS 211
+
+Nursing|University Park|120|BIOL 161, BIOL 162, BIOL 163
+
+Nutritional Sciences|University Park|120|None
+
+Petroleum and Natural Gas Engineering|University Park|129|MATH 140 or MATH 140G, CHEM 110, MATH 141 or MATH 141G, CHEM 112, PHYS 211
+
+Pharmacology and Toxicology|University Park|120|BIOL 110, CHEM 110, CHEM 111, MATH 140, BIOL 230W, CHEM 112, CHEM 113, MATH 141
+
+Philosophy B.A.|University Park|124|None
+
+Philosophy B.S.|University Park|120|None
+
+Physics|University Park|120|PHYS 211, MATH 140, CHEM 110, PHYS 212, MATH 141
+
+Planetary Science and Astronomy|University Park|122|MATH 140, GEOSC 1, CHEM 110, ASTRO 120 or ASTRO 130, BIOL 110, ASTRO 140, STAT 200
+
+Plant Sciences|University Park|120|None
+
+Political Science B.S.|University Park|120|None
+
+Premedicine|University Park|126|BIOL 110, CHEM 110, CHEM 111, MATH 140B or MATH 140, BIOL 230W, CHEM 112, CHEM 113, MATH 141B or MATH 141, CHEM 210
+
+Project and Supply Chain Management|Brandywine|120|MATH 110, ECON 102, ACCTG 211
+
+Psychology B.A.|University Park, Brandywine|124|PSYCH 100, STAT 200 or PSYCH 200, Gen Ed Course x2
+
+Psychology B.S.|University Park, Brandywine|124|PSYCH 100, STAT 200 or PSYCH 200, Gen Ed Course x2
+
+Recreation, Park and Tourism Management|University Park|120|None
+
+Rehabilitation and Human Services|University Park|120|None
+
+Risk Management|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ENGL 137H or CAS 137H, ECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Russian|University Park|120|None
+
+Science B.S.|University Park|124|BIOL 110, CHEM 110, MATH 140 or MATH 140B, PHYS 250 or PHYS 211
+
+Secondary Education|University Park|121-132|ENGL 15, MATH 140 or MATH 140B, BIOL 110, PSYCH 100, CHEM 110, CHEM 111, EDPSY 14, BIOL 220W, CHEM 112, CHEM 113, CI 295, PHYS 250 or PHYS 211, Literature
+
+Security and Risk Analysis|University Park|120|SRA 111, IST 110, IST 140, SRA 211, IST 210
+
+Social Data Analytics|University Park|120|MATH 140, MATH 141, CMPSC 132, PLSC 309
+
+Sociology B.A.|University Park|123|None
+
+Sociology B.S.|University Park|123|None
+
+Spanish B.A.|University Park|123|None
+
+Spanish B.S.|University Park|122|None
+
+Special Education|University Park|122|ENGL 15 or ENGL 30H, MATH 200, PSYCH 100, EDTHP 115, EDPSY 101, EDPSY 10, PSYCH 212, EDPSY 14, Literature
+
+Statistics|University Park|120|MATH 140, MATH 141
+
+Supply Chain and Information Systems|University Park|120|MATH 110 or MATH 140, SCM 200 or STAT 200, ENGL 15 or ENGL 30H or ESL 15 or ENGL 137H or CAS 137H, ECON 102, MGMT 301, MKTG 301, ACCTG 211, FIN 301
+
+Telecommunications and Media Industries|University Park|120|None
+
+Turfgrass Science|University Park|120|CHEM 110 or CHEM 130
+
+Veterinary and Biomedical Sciences|University Park|124|CHEM 110, CHEM 111, BIOL 110
+
+Wildlife and Fisheries Science|University Park|120-122|None
+
+Women's Studies B.A.|University Park|123|None
+
+Women's Studies B.S.|University Park|120|None
+
+Workforce Education and Development|University Park|124|ENGL 15, WFED 101, EDTHP 115, EDPSY 14, ECON 102 or ECON 104, Math x2, Literature
+
+World Languages Education|University Park|123-140|ENGL 15, LANG 201, EDPSY 14, LANG 202, HDFS 229, EDTHP 115, CI 295, WLED 300, FR 351 or FR 352, Math
